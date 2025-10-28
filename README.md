@@ -55,3 +55,6 @@ This project was a fantastic opportunity to bridge the gap between advanced AI c
 ### Conclusion
 
 Project Sentinel serves as a powerful proof-of-concept demonstrating how modern AI can revolutionize the field of cybersecurity intelligence. By automating data analysis and presenting it through a clean, interactive interface, this platform empowers security professionals to detect threats faster, understand attack patterns more deeply, and ultimately make more informed decisions to protect their assets. It showcases a forward-thinking approach to building next-generation security tools.
+
+## 📬 Connect
+💼 https://www.linkedin.com/in/cybersecuritytech/(#) | 🌐 [Portfolio](#) | ✉️ Cyber.spsil@gmail.com(#)
