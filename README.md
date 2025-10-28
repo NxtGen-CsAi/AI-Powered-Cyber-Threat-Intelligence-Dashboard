@@ -23,8 +23,11 @@ Project Sentinel is a sophisticated, real-time threat intelligence platform desi
 -   **Frontend:** React, TypeScript, Tailwind CSS
 -   **Data Visualization:** Recharts
 -   **AI & Machine Learning:**
--   **Google AI Studio:** Utilized for prompt engineering, testing, and refining the logic for AI-driven features.
--   **API Integration:** The conceptual backbone for analyzing unstructured threat data, classifying attack types, summarizing alert descriptions, and identifying threat origins from raw data feeds.
+    -   **Visual Studio Code & Google Ai Studio:** Leveraged for rapid prototyping, prompt engineering, and iterative development of the AI models that power the dashboard's analytical capabilities.
+    -   **API (Conceptual):** The core intelligence engine of the platform. This project is designed to integrate with the Gemini API to perform sophisticated tasks such as:
+        - **Real-time Threat Analysis:** Processing raw, unstructured threat intelligence feeds (e.g., from forums, logs) to extract key entities, severity levels, and attack vectors.
+        - **Automated Threat Classification:** Categorizing diverse cyber attacks into standardized types (Ransomware, Phishing, etc.) for aggregated visualization.
+        - **Natural Language Summarization:** Generating concise, human-readable summaries for complex security alerts.
 
 ### Skills Demonstrated
 
@@ -47,7 +50,7 @@ This project was a fantastic opportunity to bridge the gap between advanced AI c
 ### Future Improvements
 
 -   **Live Data Integration:** Replace the mock data service with a live data pipeline using WebSockets to connect to real cybersecurity APIs or feeds.
--   **AI-Powered Natural Language Search:** Implement a search bar that uses the Gemini API to allow analysts to query the threat database using natural language (e.g., "Show me all critical ransomware attacks from the last 24 hours").
+-   **AI-Powered Natural Language Search:** Implement a search bar that uses the API to allow analysts to query the threat database using natural language (e.g., "Show me all critical ransomware attacks from the last 24 hours").
 -   **Automated Report Generation:** Add a feature for the AI to generate detailed, downloadable PDF reports summarizing threat activity over a selected period.
 -   **User Authentication & Customization:** Introduce user accounts to allow for personalized dashboards, saved filters, and role-based access control.
 
